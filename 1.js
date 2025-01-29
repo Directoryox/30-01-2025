@@ -65,7 +65,7 @@ for (let y = 1; y <= 10; y++) {
 // 8
 
 function Click() {
-    document.getElementById("text").textContent = "Изменение текста"
+    document.getElementById("text").textContent = "Вы кликнули дважды!"
 }
 
 // 9 
